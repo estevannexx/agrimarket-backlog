@@ -1,0 +1,10 @@
+Tipo de Tarea,Resumen,Descripción,Prioridad,Estado
+Tarea,Setup: Repositorio y Entorno,Configurar repositorio en GitHub e inicializar el proyecto con el framework elegido.,Alta,Por Hacer
+Tarea,Setup: Modelo de Base de Datos,Crear el diagrama Entidad-Relación considerando Usuarios (Productores/Consumidores) y Productos.,Alta,Por Hacer
+Tarea,Setup: Wireframes (Design Thinking),Crear prototipos de baja fidelidad en Figma de las pantallas principales.,Alta,Por Hacer
+Historia de Usuario,Registro de Productor,Como productor quiero crear una cuenta con mis datos básicos y ubicación para acceder a la plataforma. CRITERIOS: 1. Formulario con Nombre, Email, Teléfono, Ubicación y Password. 2. Validación de formato de correo.,Alta,Por Hacer
+Historia de Usuario,Registro de Consumidor,Como consumidor quiero registrarme para explorar y contactar productores. CRITERIOS: 1. Registro simple (Nombre, Email, Password). 2. Opción de inicio de sesión.,Alta,Por Hacer
+Historia de Usuario,Publicar Producto,Como productor quiero publicar un producto para ofrecerlo al público. CRITERIOS: 1. Debe incluir foto, nombre, descripción, precio y cantidad. 2. El precio debe ser numérico mayor a 0.,Alta,Por Hacer
+Historia de Usuario,Exploración y Filtros,Como consumidor quiero filtrar productos por categorías para encontrar lo que necesito. CRITERIOS: 1. Barra lateral con categorías (Frutas, Verduras, Lácteos, etc.). 2. Al hacer clic la lista debe actualizarse.,Alta,Por Hacer
+Historia de Usuario,Solicitud de Compra,Como consumidor quiero enviar una solicitud de compra por un producto específico. CRITERIOS: 1. Botón "Solicitar" en el producto. 2. Permite enviar un mensaje de texto al productor.,Alta,Por Hacer
+Historia de Usuario,Bandeja del Productor,Como productor quiero ver una bandeja con las solicitudes de compra para cerrar ventas. CRITERIOS: 1. Lista de mensajes recibidos. 2. Botón para cambiar estado a "Atendido".,Alta,Por Hacer
